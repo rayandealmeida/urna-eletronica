@@ -44,17 +44,7 @@ let etapas = [
                     {url: '99.jpg', legenda: 'Prefeito', small: false},
                     {url: '99_2.jpg', legenda: 'Vice-Prefeito', small: true}
                 ]
-            },
-            {
-                numero: '27',
-                nome: 'Maria Vitória',
-                partido: 'Dramática',
-                vice: 'Simone',
-                fotos: [
-                    {url: '84.jpg', legenda: 'Prefeito', small: false},
-                    {url: '84_2.jpg', legenda: 'Vice-Prefeito', small: true}
-                ]
-            },
+            }
         ]
     }
 ];
